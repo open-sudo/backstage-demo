@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/raffaelespazzoli/backstage-demo.git
+    repoURL: https://github.com/open-sudo/backstage-demo.git
     targetRevision: HEAD
     path: crossplane/aws-provisioner
   destination:
